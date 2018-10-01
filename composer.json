@@ -11,7 +11,7 @@
   "require": {
     "php": ">=5.5.0",
     "typo3/cms": "^7.6 || ^8.7 || ^9.4",
-    "gridelementsteam/gridelements" : "^8.2.3"
+    "gridelementsteam/gridelements" : "dev-master"
   },
   "autoload": {
     "psr-4": {
